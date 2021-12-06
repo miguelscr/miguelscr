@@ -1,7 +1,7 @@
 # Hi, I’m Miguel Salvador Cruz Rodríguez, Backend Developer 👋
 ### I am a backend developer who have been worked on Python, Java, SQL, MongoDB, Linux. I am apassionate for working at a company to do software quality.
 - 🌱 I’m currently learning more about python and java, but apart from that, I like to learn how to work on C++, C#, and Django.
-- 💞️ I’m always learning more about technologies and methodologies at Platzi and others sities because I never want to stop learning.
+- 💞️ I’m always learning more about technologies and methodologies because I never want to stop learning.
 - 📫 You can contact me throught Linkedin or email.
 
 <!---
